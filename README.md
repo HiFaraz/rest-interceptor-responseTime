@@ -1,4 +1,4 @@
-# rest-interceptor-responseTime
+# rest-interceptor-responsetime
 Measure response times with rest.js
 
 Use this when you want to measure HTTP response times while using [rest.js](https://www.npmjs.com/package/rest). You can access the response time in `response.time`.
@@ -6,14 +6,14 @@ Use this when you want to measure HTTP response times while using [rest.js](http
 ## Installation
 
 ```bash
-$ npm install rest-interceptor-responseTime
+$ npm install rest-interceptor-responsetime
 ```
 
 ## Usage
 
 ```javascript
 var rest = require('rest');
-var responseTime = require('rest-interceptor-responseTime');
+var responseTime = require('rest-interceptor-responsetime');
 
 rest.wrap('responseTime');
 

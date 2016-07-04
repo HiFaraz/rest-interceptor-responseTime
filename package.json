@@ -1,25 +1,25 @@
 {
-  "name": "rest-interceptor-responsetime",
-  "version": "1.0.0",
-  "description": "Measure response times with rest.js",
-  "main": "./lib",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://hifaraz@github.com/HiFaraz/rest-interceptor-responseTime.git"
-  },
-  "keywords": [
+	"name": "rest-interceptor-responsetime",
+	"version": "1.0.1",
+	"description": "Measure response times with rest.js",
+	"main": "./lib",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://hifaraz@github.com/HiFaraz/rest-interceptor-responsetime.git"
+	},
+	"keywords": [
     "rest.js",
     "response",
     "time",
     "rest"
   ],
-  "author": "Faraz Syed <hello@farazsyed.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/HiFaraz/rest-interceptor-responseTime/issues"
-  },
-  "homepage": "https://github.com/HiFaraz/rest-interceptor-responseTime#readme"
+	"author": "Faraz Syed <hello@farazsyed.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/HiFaraz/rest-interceptor-responsetime/issues"
+	},
+	"homepage": "https://github.com/HiFaraz/rest-interceptor-responsetime#readme"
 }
