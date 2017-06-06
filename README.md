@@ -1,4 +1,6 @@
 # rest-interceptor-responsetime
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/HiFaraz/rest-interceptor-responsetime.svg)](https://greenkeeper.io/)
 Measure response times with rest.js
 
 Use this when you want to measure HTTP response times while using [rest.js](https://www.npmjs.com/package/rest). You can access the response time in `response.time`.
